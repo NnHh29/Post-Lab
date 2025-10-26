@@ -1,7 +1,7 @@
 # Post Lab
-Laporan praktikum matakuliah UCCN (Unified Communication & Collaboration Networking), dilengkapi dengan data capture dan visualisasi trafik.aa
+Laporan praktikum matakuliah UCCN (Unified Communication & Collaboration Networking), dilengkapi dengan data capture dan visualisasi trafik.
 
-Nama : 
+Nama : Nabil Huda
 NPM  : 2310017514009
 
 # 1. Pendahuluan
