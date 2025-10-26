@@ -65,7 +65,7 @@ A. Durasi Capture dan IP Address Paling Aktif
 
   • Total durasi perekaman adalah 201.672 detik (3 menit 21 detik). Total paket yang ditangkap adalah 7899 paket.
 
-![Endpoints](endpoints.png)
+![Endpoints](endpoint.png)
 
   • Alamat IP yang paling aktif pada sesi capture ini adalah 192.168.35.159. IP tersebut tercatat mengirim dan menerima sebanyak 7883 paket dengan total data mencapai 6 MB, jumlah yang jauh lebih tinggi dibandingkan alamat IP lainnya. Hal ini mengindikasikan bahwa 192.168.35.159 berperan sebagai host utama yang menjadi fokus pemantauan selama proses analisis.
 
